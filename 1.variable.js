@@ -13,3 +13,6 @@ console.log(arr);
 const arr2 = [3, 6, 7, 8, 9, 0];
 arr2.pull(23);
 console.log(arr2);
+
+const arr3 = [12, 45, 67, 3,56];
+console.log(arr3);
