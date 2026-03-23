@@ -324,7 +324,7 @@ But newer React patterns are evolving.
 
 # 📌 Summary
 
-Today I learned several important React concepts:
+📝 Today I learned several important React concepts:
 
 ✅ Different ways to handle events
 ✅ Inline event handlers
